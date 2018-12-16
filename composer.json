@@ -1,0 +1,15 @@
+{
+    "name": "zqs/demo",
+    "description": "composer test",
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "zqs",
+            "email": "zqsluoyang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
